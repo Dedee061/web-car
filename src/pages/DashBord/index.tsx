@@ -1,6 +1,6 @@
 
 
-export default function Dashboard() {
+export function Dashboard() {
   return (
     <div>
       Pagina de dashbord

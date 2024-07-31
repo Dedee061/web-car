@@ -1,5 +1,5 @@
 
-export default function Register() {
+export function Register() {
   return (
     <div>
       Pagina de registro

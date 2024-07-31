@@ -1,5 +1,5 @@
 
-export default function CarDetail() {
+export function CarDetail() {
   return (
     <div>
         Pagina de Detalhes

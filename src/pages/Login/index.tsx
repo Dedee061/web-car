@@ -1,6 +1,6 @@
 
 
-export default function Login() {
+export function Login() {
   return (
     <div>
         Pagina Login
